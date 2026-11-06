@@ -1,0 +1,28 @@
+{
+  "name": "bosch-wgb244a40-ru",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Интерактивная русская панель стиральной машины Bosch Serie 8 WGB244A40 (PWA)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@floating-ui/react": "^0.27.20",
+    "clsx": "^2.1.1",
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
